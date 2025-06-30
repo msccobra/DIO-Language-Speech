@@ -1,2 +1,1 @@
-# DIO-Language-Speech
-Documentação a respeito da utilização das ferramentas de voz e linguagem do Microsoft Azure, nominalmente, Language Studio e Speech Studio..
+Página com as Figuras usadas no arquivo README.md do branch main deste repositório.
